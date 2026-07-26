@@ -1,0 +1,10 @@
+{
+  "name": "Shirt & Hat Factory",
+  "short_name": "POD Factory",
+  "description": "Automated print-on-demand shirts and hats",
+  "start_url": "/shirt-hat-pod-factory/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#6366f1",
+  "icons": []
+}
