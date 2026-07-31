@@ -1,0 +1,30 @@
+{
+  "_note": "Template for Printful Sync Product API. Replace image URLs with your hosted design files. variant_id values are examples — check current Printful catalog.",
+  "sync_product": {
+    "name": "Sigma Factory Tee",
+    "thumbnail": "https://your-cdn.com/designs/sigma-factory-front.png",
+    "external_id": "sigma-factory-tee"
+  },
+  "sync_variants": [
+    {
+      "variant_id": 4017,
+      "retail_price": "29.99",
+      "sku": "SHF-TEE-SIGMA-BLK-M",
+      "files": [
+        {
+          "type": "default",
+          "url": "https://your-cdn.com/designs/sigma-factory-front.png",
+          "filename": "front.png",
+          "position": {
+            "area_width": 1800,
+            "area_height": 2400,
+            "width": 1800,
+            "height": 2400,
+            "top": 0,
+            "left": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "sigma-factory-tee",
+    "name": "Sigma Factory Tee",
+    "type": "shirt",
+    "baseProduct": "Bella+Canvas 3001",
+    "price": 29.99,
+    "tagline": "Built by the automation. Worn by the builders.",
+    "colors": ["Black", "Navy", "White"],
+    "sizes": ["S", "M", "L", "XL", "2XL"],
+    "printAreas": ["front", "back"],
+    "designFile": "designs/sigma-factory-front.png",
+    "badge": "Best Seller"
+  },
+  {
+    "id": "pipeline-cap",
+    "name": "Pipeline Cap",
+    "type": "hat",
+    "baseProduct": "Yupoong 6089",
+    "price": 24.99,
+    "tagline": "Ship code. Ship merch. Same energy.",
+    "colors": ["Black", "Olive", "Charcoal"],
+    "sizes": ["One Size"],
+    "printAreas": ["front"],
+    "designFile": "designs/pipeline-cap-front.png",
+    "badge": "New"
+  },
+  {
+    "id": "zero-inventory-hoodie",
+    "name": "Zero Inventory Hoodie",
+    "type": "shirt",
+    "baseProduct": "Gildan 18500",
+    "price": 49.99,
+    "tagline": "No stock. No stress. Just pure POD flow.",
+    "colors": ["Black", "Ash", "Forest"],
+    "sizes": ["S", "M", "L", "XL", "2XL"],
+    "printAreas": ["front", "back"],
+    "designFile": "designs/zero-inv-hoodie-front.png",
+    "badge": null
+  },
+  {
+    "id": "github-actions-beanie",
+    "name": "GitHub Actions Beanie",
+    "type": "hat",
+    "baseProduct": "Flexfit 1501KC",
+    "price": 22.99,
+    "tagline": "Runs on every push. Looks good on every head.",
+    "colors": ["Black", "Heather Grey"],
+    "sizes": ["One Size"],
+    "printAreas": ["front"],
+    "designFile": "designs/actions-beanie-front.png",
+    "badge": "Limited"
+  }
+]

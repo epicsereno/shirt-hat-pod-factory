@@ -1,0 +1,22 @@
+{
+  "_note": "Template for Printful hat / cap. Adjust variant_id and placement for the specific hat style (dad hat, beanie, trucker, etc.).",
+  "sync_product": {
+    "name": "Pipeline Cap",
+    "thumbnail": "https://your-cdn.com/designs/pipeline-cap-front.png",
+    "external_id": "pipeline-cap"
+  },
+  "sync_variants": [
+    {
+      "variant_id": 12345,
+      "retail_price": "24.99",
+      "sku": "SHF-HAT-PIPE-BLK",
+      "files": [
+        {
+          "type": "default",
+          "url": "https://your-cdn.com/designs/pipeline-cap-front.png",
+          "filename": "front.png"
+        }
+      ]
+    }
+  ]
+}
